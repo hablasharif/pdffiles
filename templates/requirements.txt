@@ -1,0 +1,6 @@
+flask 
+PyPDF2 
+PdfMerger
+PdfFileReader
+os
+io
